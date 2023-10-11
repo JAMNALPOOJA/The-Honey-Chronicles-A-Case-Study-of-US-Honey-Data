@@ -1,4 +1,4 @@
-# The-Honey-Chronicles-A-Case-Study-of-US-Honey-Data
+# The-Honey-Chronicles-A_Case_Study_of_US_Honey_Data
 
 The Honey Chronicles: A Case Study of US Honey Data" is a captivating project that delves into the rich and complex world of honey production in the United States. Leveraging an array of powerful Python libraries and visualization tools, this case study provides a detailed and insightful exploration of the industry.
 
